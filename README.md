@@ -9,16 +9,24 @@ Développeur backend polyvalent avec 15 ans d'expérience dans la conception d'A
 ## 🛠️ Stack technique
 
 **Langages**
-`Python` `Ruby` `JavaScript` `C#` `HTML` `CSS`
 
-**Frameworks**
-`Ruby on Rails` `Django` `GraphQL` `Bootstrap` `Sidekiq`
+[![Langages](https://skillicons.dev/icons?i=python,ruby,js,jquery,cs,html,css)](https://skillicons.dev)
+
+**Frameworks & librairies**
+
+[![Frameworks](https://skillicons.dev/icons?i=rails,django,bootstrap,graphql)](https://skillicons.dev)
 
 **Bases de données**
-`PostgreSQL` `DB2`
+
+[![Bases de données](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
 
 **DevOps & Cloud**
-`Docker` `Kubernetes` `AWS` `GitHub Actions` `GitLab CI/CD`
+
+[![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,gitlab)](https://skillicons.dev)
+
+**Outils**
+
+[![Outils](https://skillicons.dev/icons?i=git,linux,vscode)](https://skillicons.dev)
 
 ---
 
